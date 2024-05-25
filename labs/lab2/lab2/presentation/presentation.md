@@ -64,6 +64,7 @@ section-titles: true
 ![Информация о пользователе guest](image/2.png){ #fig:002 width=80% height=80% }
 
 ## Файл с данными о пользователях
+
 посмотрим на файл /etc/passwd и найдем в нём свою учётную запись.
 
 ![Cодержимое файла /etc/passwd ](image/3.png){ #fig:003 width=80% height=80% }
